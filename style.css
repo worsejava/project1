@@ -1,0 +1,96 @@
+h1 {  font-family: tahoma;
+  text-align: center;
+  color: white;
+}
+p {
+  color: white;
+  font-family: tahoma;
+  text-align: center;
+  font-size: 15px;
+}
+body {
+  background-color: black;
+}
+
+a {
+  text-align: center;
+}
+.image {
+  background: url("https://wallpapercave.com/wp/wp2777161.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.image2 {
+  background: url(https://instagram.fbed1-1.fna.fbcdn.net/v/t51.2885-15/e35/109035131_339527127041825_3668024335496653901_n.jpg?_nc_ht=instagram.fbed1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1Y_z-jYPeJkAX9dqZpX&oh=ffedc3470a254a91286042341335682f&oe=5F42776A);
+  background-size: cover;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.image3 {
+  background: url("https://upload.wikimedia.org/wikipedia/en/d/dd/Paramore-all_we_know_is_falling.jpg");
+  background-size: cover;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 20px white;
+}
+.image4 {
+  background: url("https://wanggukclothing.files.wordpress.com/2013/09/top2.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.image5 {
+  background: url("https://media.karousell.com/media/photos/products/2018/10/15/sony_psp_3000_slim_carnival_spirited_greenrare_1539613681_b2e8ea4a.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.image6 {
+  background: url("https://images.squarespace-cdn.com/content/v1/57e2ddb959cc68d8ab41611e/1552843129342-8JNASL80LO5ZSMIAQNYL/ke17ZwdGBToddI8pDm48kJ-iXUMiALsiCqMow8k6utl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmB54K-fV_fpAN1yJ8HvLEaBoU9ibjj4-v6mp9RTTi4CmLD5PePdoLcR7MV9r2BbiL/81FWNdyY5WL._SL1417_.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.image7 {
+  background: url("https://instagram.fbed1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/104405437_2704568522982477_7818731716578727984_n.jpg?_nc_ht=instagram.fbed1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=RJK71jm7jFsAX8gF2lK&oh=4b4d604569b12602d819e25431e9842c&oe=5F430105");
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.image8 {
+  background: url("https://c.static-nike.com/a/images/w_960,c_limit,f_auto/3e4df383-b2f5-47e3-961a-4018f5d1e8bf/snkrs-special-vol1-dunk-low-plum.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
